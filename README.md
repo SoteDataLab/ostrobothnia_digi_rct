@@ -5,8 +5,7 @@ This repository contains replication code and documentation for the **Ostrobothn
 ## Contents
 
 - **Pre-analysis Plan (PAP)** – published on March 26, 2025  
-- **Statistical Analysis Plan (SAP)** – published on October 2, 2025  
+- **Statistical Analysis Plan (SAP)** – published on October 2, 2025
+- **Populated Statistical Analysis Plan (Populated SAP)** – published on May 12, 2026 
 
-## Upcoming
 
-- **Populated Statistical Analysis Plan (SAP)** (to be published)  
